@@ -2,7 +2,9 @@
 
 Template which implements [`reveal.js`](https://revealjs.com/) in [`11ty`](https://www.11ty.dev/) for simple deployment and development.
 
-[**Demo**](https://bullrich.dev/reveal-eleventy-template/)
+This is a fork of Javier Bullrich's `reveal-eleventy-template`.
+- [**Repo**](https://github.com/Bullrich/reveal-eleventy-template)
+- [**Demo**](https://bullrich.dev/reveal-eleventy-template/)
 
 ## Motivation
 
